@@ -1,0 +1,31 @@
+.clg-container {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+}
+
+.clg-image {
+  border-radius: 10px;
+  width: 100%;
+}
+
+.clg-title {
+  margin-top: 10px;
+  font-family: math;
+  color: #50468dfc;
+}
+
+.clg-short-desc {
+  font-size: 15px;
+  font-family: -webkit-body;
+  color: #50468dfc;
+}
+
+.clg-desc {
+  font-family: inherit;
+  color: #50468dfc;
+}
+
+.back-btn {
+  margin: 10px;
+}

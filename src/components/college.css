@@ -1,0 +1,23 @@
+.college-container {
+  border: 2px solid #4510566b;
+  /* max-width: 60%; */
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgb(84 104 167 / 45%);
+}
+
+.college-container:hover {
+  box-shadow: 0px 0px 10px rgb(84, 104, 167);
+}
+
+.image {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.link-title {
+  text-decoration: none;
+}
+
+.short-description {
+  font-size: 14px;
+}
